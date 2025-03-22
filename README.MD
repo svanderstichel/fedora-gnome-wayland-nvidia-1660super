@@ -1,4 +1,4 @@
-#Solution to performances issues on fedora41-gnome-wayland-nvidia-1660super
+`Solution to performances issues on fedora41-gnome-wayland-nvidia-1660super`
 
 I'm a new linux user myself, this is the second time trying to leave windows and fedora has been best choice.
 

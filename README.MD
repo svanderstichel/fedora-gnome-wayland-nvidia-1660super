@@ -1,6 +1,6 @@
-**Solution to performances issues on fedora41-gnome-wayland-nvidia-1660super**
+#**Solution to performances issues on fedora41-gnome-wayland-nvidia-1660super**
 
-I'm a new linux user myself, this is the second time trying to leave windows and fedora has been best choice.
+I'm a new linux user myself, this is the second time trying to leave windows and **fedora has been best choice**.
 
 I have been struggling with performance issues on desktop: Laggy animations, weird effects on firefox and so on.
 
